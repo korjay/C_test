@@ -1,0 +1,42 @@
+[01-01] 본인 성명 출력화면 인수 한개로 표시
+
+[01-02] 본인 성명 출력화면 12번 반복 표시 쓰기
+
+[01-03] 구구단 2dan ? 9dan output on monitor screen
+
+[01-04] 구구단 9단 ~ 6단 가로형태로 예쁘게 monitor 출력
+
+[01-05] 구구단 9단~ 2단 가로형태로 예쁘게 monitor 출력
+
+[01-06] ASCII(Amercian Standard Code for Information Interchange)
+
+[01-07] 정수5개를 read in through keyboard 받아monitor에 출력하라.
+
+[01-08] 정수5개를read in through keyboard 받아 (일련 연속 번호)
+각 정수 및 그때까지 입력된 정수 중에 최대값 찾아 표시
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
